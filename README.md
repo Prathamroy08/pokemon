@@ -1,2 +1,4 @@
 # pokemon
-just playing with api
+JUST PLAYING WITH API
+
+THIS IS MY DAY 5 WITH JAVA SCRIPT
